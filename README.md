@@ -2,7 +2,7 @@
 
 Github Finder using Github API
 
-## live demo:
+## live demo: https://github-finder-rho-lake.vercel.app/
 
 ## What used
 
